@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-style: oblique;
+}
+
+h2 {
+  text-align: center;
+  color: Black;
+  font-style: italic;
+}
+
+h3 {
+  display: block;
+  font-weight: bold;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: normal;
+  display: block;
+}
+
+ul {
+  display: block;
+  line-height: 30px;
+  font-size: 20px;
+}
